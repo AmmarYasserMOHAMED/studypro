@@ -1,0 +1,1 @@
+chrome-extension://pamolibmfebkknkdmfabpjebifbffbec/content/sef/observer.js
